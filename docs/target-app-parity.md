@@ -125,7 +125,7 @@ immersive delivery, video, notation, and languages other than English.
 | File exchange with Pro Tools users | ×0.85 | Engineers trade sessions, not stems. No `.ptx`, AAF or OMF (#40); WAV/BWF stems and MIDI files do work, so the factor isn't lower |
 | **Result** | 50.6 × 0.90 × 0.92 × 0.85 = **35.6 % ≈ 36 %** | |
 
-This comes out *below* the full number (~40 %), which the standard says is unusual. The
+This comes out *below* the full number (~40 %), which is unusual. The
 mainstream engineer's weekly core is interface recording and MIDI overdubs, exactly the
 alpha-gate failures. The full number gets partial credit from areas this user doesn't weight:
 editing breadth, five platforms built, agent control.
